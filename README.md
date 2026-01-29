@@ -23,12 +23,14 @@ I'm passionate about building real-world applications using Machine Learning, Fl
 ### 🏠 House Price Prediction (ML)
 Predict house prices using Linear Regression.
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/house-price-prediction  
+🔗 GitHub: https://github.com/Nitin77545/house-price-prediction  
 
 ---
 
 ### 🔧 Mechanic Service App (Flutter + Backend)
 A service app for mechanics & customers.
+🔗 GitHub: https://github.com/Nitin77545/MechZenPro-partner
+🔗 GitHub: https://github.com/Nitin77545/MechZenPro-Book Mechanic
 
 ---
 
@@ -42,8 +44,8 @@ A service app for mechanics & customers.
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/nitin-sharma-5a7035347/
+- GitHub: https://github.com/Nitin77545
 
 ---
 
