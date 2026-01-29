@@ -29,8 +29,8 @@ Predict house prices using Linear Regression.
 
 ### 🔧 Mechanic Service App (Flutter + Backend)
 A service app for mechanics & customers.
-🔗 GitHub: https://github.com/Nitin77545/MechZenPro-partner
-🔗 GitHub: https://github.com/Nitin77545/MechZenPro-Book Mechanic
+🔗 GitHub: https://github.com/Nitin77545/MechZenPro_partner
+🔗 GitHub: https://github.com/Nitin77545/MechZenPro_Book_Mechanic
 
 ---
 
